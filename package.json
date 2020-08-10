@@ -1,0 +1,9 @@
+{
+  "name": "spoken",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "firebase deploy"
+  },
+  "author": "Christian Graver <christiangraver@gmail.com>",
+  "license": "ISC"
+}
